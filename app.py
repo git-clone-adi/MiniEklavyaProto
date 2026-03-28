@@ -3,10 +3,10 @@ import sqlite3
 import pandas as pd
 import plotly.express as px
 
-# Page Config
+
 st.set_page_config(page_title="DRONA Analytics Dashboard", layout="wide")
 
-st.title("🛡️ DRONA School Analytics Dashboard")
+st.title("🛡️ MiniEklavyaProto School Analytics Dashboard")
 st.markdown("Real-time engagement and adoption metrics for the Eklavya Platform.")
 
 # Database Connection
